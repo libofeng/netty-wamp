@@ -6,3 +6,6 @@
 *.ear
 
 *.iml
+
+#IntelliJ IDEA
+.idea
